@@ -3,7 +3,22 @@
     padding: auto;
 }
 
+body {
+    background: #f5e4df;
+    color: #403846;
+    font-family: Helvetica;
+}
+
+main {
+    padding-top: 20px;
+}
+
+header {
+    text-align: center;
+}
+
 .image {
+    padding: 10px 0 10px 0;
     display: block;
     max-width: 40%;
     max-height: 40%; 
