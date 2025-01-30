@@ -17,6 +17,29 @@ header {
     text-align: center;
 }
 
+h1 {
+    font-size: 60px;
+    padding-bottom: 5px;
+}
+
+figcaption {
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 12px;
+}
+
+h3 {
+    margin: 0 auto 10px 10px;
+}
+
+section {
+    width: 90%;
+    margin: 0 auto 10px auto;
+    padding: 5px;
+    max-width: 90%;
+    background: #f2eaf9;
+}
+
 .image {
     padding: 10px 0 10px 0;
     display: block;
